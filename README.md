@@ -33,13 +33,21 @@ This repository follows standard security research and educational principles:
 ## Repository Structure
 
 Reverse-Studies/
+
 ├── studies/
+
 │   ├── web/
+
 │   │   └── ...
+
 │   ├── mobile/
+
 │   │   └── ...
+
 │   └── desktop/
+
 │       └── ...
+
 └── README.md
 
 Each directory contains a technical breakdown alongside simplified Python, JavaScript, or Java/bytecode examples.
